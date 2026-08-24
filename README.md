@@ -1,7 +1,7 @@
 # Recruitment & HR: Employee Helpdesk System
 
-**Course:** SOA Programming and Microservices -- (24SDCS03)\
-**Academic Year:** 2026--2027
+**Course:** SOA Programming and Microservices - (24SDCS03)\
+**Academic Year:** 2026-2027
 
 ## Project Team
 
